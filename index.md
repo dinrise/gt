@@ -7,7 +7,7 @@
   <h2><strong>Amazfit GTR 2</strong></h2>
 
   <div class="cards" style="color: #fff;">
-All this cool watchfaces you can find in app! Support developers! (Все эти крутые циферблаты, вы можете найти в приложении! Поддержите разработчиков!)</div><a href="https://play.google.com/store/apps/details?id=com.GTR2Watchfaces.android"> https://play.google.com/store/apps/details?id=com.GTR2Watchfaces.android</a>
+К сожалению, в связи с обращением правообладателя, я временно закрыл возможность скачивать фицерблаты.</div>
 
   <div class="cards">
 
